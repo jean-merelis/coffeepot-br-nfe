@@ -1,0 +1,15 @@
+coffeepot.br.nfe
+coffeepot.br.nfe.core
+coffeepot.br.nfe.sefaz.services
+coffeepot.br.nfe.sefaz.services.batchQuery
+coffeepot.br.nfe.sefaz.services.batchSubmission
+coffeepot.br.nfe.sefaz.services.cancellation
+coffeepot.br.nfe.sefaz.services.eventSubmission
+coffeepot.br.nfe.sefaz.services.nfeQuery
+coffeepot.br.nfe.sefaz.services.statusQuery
+coffeepot.br.nfe.sefaz.services.unusable
+coffeepot.br.nfe.util
+coffeepot.br.nfe.w3xmldsig
+coffeepot.br.nfe.xml.builder
+coffeepot.br.nfe.xml.signature
+coffeepot.br.nfe.xml.validator
