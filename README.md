@@ -85,8 +85,8 @@ Importante: Comunicações com a SEFAZ irâo ocorrer!!
         //assina o XML
         XmlSignResult xmlSigned = instance.signNFe(xml);
         
-        //valida o XML
-        ValidationResultsHandler validateResult = instance.validateXmlNFe(xmlSigned.getXml(), XmlNFeValidator.SchemaVersion.PL_006J);
+        //valida o XML, como o schema PL_006r
+        ValidationResultsHandler validateResult = instance.validateXmlNFe(xmlSigned.getXml(), SchemaVersion.getTheLatestSchema());
 
         //processa o retorno da validação
         if (validateResult != null) {
