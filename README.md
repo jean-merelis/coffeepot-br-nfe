@@ -7,7 +7,7 @@ Project to be used in Brazil for to sign and to send fiscal documents of the pro
 Projeto para comunicação com os portais do sefaz, para envio de NF-e, envio de Eventos de NF-e, envio de Inutilização e consultas.
 
 Javadoc disponível em: 
-  http://jom76.github.io/coffeepot-br-nfe/
+  http://jean-merelis.github.io/coffeepot-br-nfe/
   
 O jar do projeto pode ser baixado no sourceforce: 
     https://sourceforge.net/projects/coffeepotbrnfe/  
